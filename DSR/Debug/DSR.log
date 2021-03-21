@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  SourceRoute.c
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\sourceroute.c(68): warning C4013: 'fn_NetSim_dynamic_clustering_CheckDestination' undefined; assuming extern returning int
+  SendBuffer.c
+  RouteRequest.c
+  RouteReply.c
+  RouteError.c
+  RouteCache.c
+  PacketProcessing.c
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\packetprocessing.c(41): warning C4013: 'fn_NetSim_dynamic_clustering_GetNextHop' undefined; assuming extern returning int
+  Network_Layer_Ack.c
+  MATLAB_Interface.c
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\matlab_interface.c(12): fatal error C1083: Cannot open include file: 'mat.h': No such file or directory
+  MaintBuffer.c
+  Dynamic_Clustering.c
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(63): warning C4013: 'fn_NetSim_dynamic_clustering_IdentifyCluster' undefined; assuming extern returning int
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(59): warning C4101: 'i': unreferenced local variable
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(56): warning C4101: 'nInterface': unreferenced local variable
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(143): warning C4020: 'fn_netsim_matlab_run': too many actual parameters
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(149): warning C4244: 'function': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(153): warning C4013: 'fn_netsim_dynamic_form_clusters' undefined; assuming extern returning int
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(155): warning C4013: 'fn_netsim_assign_cluster_heads' undefined; assuming extern returning int
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(140): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(140): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(159): warning C4477: 'fprintf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'double *'
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(174): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(197): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DSR.c
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dsr.c(47): warning C4013: 'fn_NetSim_Dynamic_Clustering_Init' undefined; assuming extern returning int
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dsr.c(194): warning C4013: 'fn_NetSim_dynamic_clustering_run' undefined; assuming extern returning int
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dsr.c(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dsr.c(275): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  CheckRouteFound.c
+  Generating Code...
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(111): warning C4715: 'fn_NetSim_dynamic_clustering_IdentifyCluster': not all control paths return a value
+c:\users\comm lab 09\desktop\manet\clustering node selection\dynamic_clustering_v9_1\dsr\dynamic_clustering.c(164): warning C4716: 'fn_NetSim_dynamic_clustering_run': must return a value
